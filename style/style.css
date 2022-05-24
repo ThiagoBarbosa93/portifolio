@@ -184,6 +184,7 @@ main > img {
 }
 
 #curriculo  {
+    font-family: var(--font-padrao3);
     text-align: center;
     text-decoration: underline;
     color: var(--cor2);
