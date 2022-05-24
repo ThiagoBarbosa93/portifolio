@@ -171,6 +171,18 @@ main > img {
 
 }
 
+#curriculo  {
+    text-align: center;
+    text-decoration: underline;
+    color: var(--cor2);
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+#curriculo:hover {
+    color: var(--cor0);
+}
+
 /*=========================ASIDE=========================*/
 
 
