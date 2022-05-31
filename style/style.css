@@ -136,11 +136,29 @@ main  {
     text-shadow: 0.1em 0.1em #FC6139;
 }
 
+.barrinha {
+    width: 90%;
+    height: 20px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right, #FC6139 0%, #FC6139 40%, #606F78 10%);
+}
+
 #skill-2 {
     font-family: var(--font-padrao6);
     text-align: center;
     margin-top: 20px;
     text-shadow: 0.1em 0.1em #22A2F2;
+}
+
+.barrinha-2 {
+    width: 90%;
+    height: 20px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right, #22A2F2 0%, #22A2F2 59%, #606F78 10%);
 }
 
 #skill-3 {
@@ -149,6 +167,15 @@ main  {
     margin-top: 20px;
     color: white;
     text-shadow: 0.1em 0.1em #b89f00;
+}
+
+.barrinha-3 {
+    width: 90%;
+    height: 20px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right, #b89f00 0%, #b89f00 5%, #606F78 10%);
 }
 
 #msg {
